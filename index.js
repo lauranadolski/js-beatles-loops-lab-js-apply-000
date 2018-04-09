@@ -26,7 +26,14 @@ function johnLennonFacts(facts) {
   return factsarray;
 }
 
-// iLoveTheBeatles accepts a number as a parameter, and if
+// iLoveTheBeatles accepts a number as a parameter. If the number
+// is greater than 15, it prints out "I love the Beatles!" once. If
+// it's less than 15, "I love the Beatles!" is printed out
+// number + 1 times.
+
+
+
+
 function iLoveTheBeatles(number) {
   var lovearray = [];
   var i = 0;
