@@ -27,8 +27,8 @@ function johnLennonFacts(facts) {
 }
 
 // iLoveTheBeatles accepts a number as a parameter. If the number
-// is greater than 15, it prints out "I love the Beatles!" once. If
-// it's less than 15, "I love the Beatles!" is printed out
+// is greater than 15, it prints out "I love the Beatles!" once.
+// If it's less than 15, "I love the Beatles!" is printed out
 // number + 1 times.
 
 
