@@ -32,6 +32,7 @@ function iLoveTheBeatles(number) {
   var i = 0;
   do {
     lovearray.push(`I love the Beatles!`);
+    i++;
   }
   while (i < number);
   return lovearray;
