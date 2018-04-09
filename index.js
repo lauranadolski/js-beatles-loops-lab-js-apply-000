@@ -31,9 +31,6 @@ function johnLennonFacts(facts) {
 // If it's less than 15, "I love the Beatles!" is printed out
 // number + 1 times.
 
-
-
-
 function iLoveTheBeatles(number) {
   var lovearray = [];
   var i = 0;
